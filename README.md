@@ -35,3 +35,4 @@ You can customize the ToDo List website to fit your preferences:
    
 2) Edit the JavaScript in the script.js file to add new features or functionality.
 
+You can preview it <a href="https://shafa-shabudeen.github.io/TODO-List-web/">here</a>
